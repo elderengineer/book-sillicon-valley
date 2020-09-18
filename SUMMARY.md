@@ -1,4 +1,9 @@
-## Summary
-
-* [Introduction](README.md)
+# Summary
+* 在大公司打工的日子
+  * [帝王](31.md)
+  * [組織與企業章呈](32.md)
+* 矽谷雜談
+  * [併聘 Acquhire](41.md)
+* 大齡工程師的挑戰
+* 給年輕人的建議
 

@@ -1,0 +1,8 @@
+{
+  "plugins": ["ad"],
+  "pluginsConfig": {
+    "ad": {
+      "contentTop": "<!-- Matomo -->\r\n<script type=\"text\/javascript\">\r\n  var _paq = window._paq = window._paq || [];\r\n  \/* tracker methods like \"setCustomDimension\" should be called before \"trackPageView\" *\/\r\n  _paq.push(['trackPageView']);\r\n  _paq.push(['enableLinkTracking']);\r\n  (function() {\r\n    var u=\"https:\/\/elderengineer.matomo.cloud\/\";\r\n    _paq.push(['setTrackerUrl', u+'matomo.php']);\r\n    _paq.push(['setSiteId', '1']);\r\n    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];\r\n    g.type='text\/javascript'; g.async=true; g.src='\/\/cdn.matomo.cloud\/elderengineer.matomo.cloud\/matomo.js'; s.parentNode.insertBefore(g,s);\r\n  })();\r\n<\/script>\r\n<!-- End Matomo Code -->"
+    }
+  }
+}
